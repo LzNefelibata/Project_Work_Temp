@@ -1,4 +1,4 @@
-# Project_Work_Temp
+# 简易天气查询应用
 代码结构:  
 openweathermap链接  
           异常问题处理  
